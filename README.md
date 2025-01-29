@@ -120,10 +120,10 @@ print(predictions)
 
 Si tienes alguna consulta o sugerencia, puedes contactar a los miembros del equipo:
 
-- **[Joseph Arroyo]** - [GitHub/LinkedIn]
-- **[Franco Iribarne]** - [GitHub/LinkedIn]
-- **[Camila Breide]** - [GitHub/LinkedIn]
-- **[Kelly Saltos]** - [GitHub/LinkedIn]
+- **[Joseph Arroyo]** - [https://www.linkedin.com/in/josepharroyohernandez/]
+- **[Franco Iribarne]** - [https://www.linkedin.com/in/franco-iribarne-4101a32ab/]
+- **[Camila Breide]** - [https://www.linkedin.com/in/camilabreide/]
+- **[Kelly Saltos]** - [https://www.linkedin.com/in/nicolle-saltos/]
 
 
 ¡Esperamos tu feedback y contribuciones! 🚀
